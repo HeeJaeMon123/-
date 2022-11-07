@@ -22,3 +22,19 @@ https://zeddios.tistory.com/93 <br />
 
 OS<br />
 https://www.youtube.com/watch?v=LBqJwmFMQHI <br />
+
+네트워크<br />
+DNS - https://coding-start.tistory.com/m/339
+DNS - https://ddongwon.tistory.com/m/74
+
+
+
+
+
+
+
+
+
+
+
+
