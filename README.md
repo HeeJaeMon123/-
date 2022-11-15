@@ -24,7 +24,7 @@ OS<br />
 https://www.youtube.com/watch?v=LBqJwmFMQHI <br />
 
 네트워크<br />
-DNS - https://coding-start.tistory.com/m/339
+DNS - https://coding-start.tistory.com/m/339 <br />
 DNS - https://ddongwon.tistory.com/m/74
 
 
