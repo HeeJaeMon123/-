@@ -23,9 +23,24 @@ https://zeddios.tistory.com/93 <br />
 <h2> OS</h2>
 https://www.youtube.com/watch?v=LBqJwmFMQHI <br />
 
+
+
+<h2> OPNET </h2>
+https://moleman.tistory.com/760#comment14237217  <br />
+
+
+
+
 <h2> 네트워크</h2>
 DNS - https://coding-start.tistory.com/m/339 <br />
 DNS - https://ddongwon.tistory.com/m/74  <br />
+기초 - https://www.youtube.com/watch?v=kGst-VftN1w&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&index=7  <br />
+PSD - https://www.sciencedirect.com/topics/computer-science/power-spectral-density (26.5.4 Power Spectral Density and Dynamic Range
+A signal consisting of many similar subcarriers will have a constant power spectral density (PSD) over its bandwidth and the total signal power can then be found as P = PSD · BW.) <br />
+PSD - https://dsp.stackexchange.com/questions/13127/snr-calculation-with-noise-spectral-density  <br />
+PSD - https://dsp.stackexchange.com/questions/28392/calculating-the-snr-from-the-power-spectrum-is-my-suggestion-relevant  <br />
+PSD - https://www.cygres.com/OcnPageE/Glosry/SpecE.html  <br />
+
 
 
 <h2> 최적화 </h2>
@@ -45,5 +60,6 @@ https://stackoverflow.com/questions/42303470/scipy-optimize-inequality-constrain
 http://ask.cvxr.com/search?q=mosek%20fraction  <br />
 
 
-
+<h2> 안테나 </h2>
+기초 - https://www.youtube.com/watch?v=fASaxvahoxA&list=RDCMUC8oISLPgi09sho7xkjR5CgA&start_radio=1  <br />
 
