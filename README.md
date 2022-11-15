@@ -48,7 +48,7 @@ python optimize - https://wikidocs.net/15656  <br />
 python optimize - https://thebook.io/080227/ch04/03/02-04/  <br />
 python optimize - https://blog.naver.com/PostView.naver?blogId=rising_n_falling&logNo=222361251972&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView  <br />
 python optimize - https://hmkim312.github.io/posts/%EC%B5%9C%EC%A0%81%ED%99%94(Optimization)_with_Scipy_%ED%99%95%EB%A5%A0(Probability)_with_Pgmpy/#3-%EC%A0%9C%ED%95%9C%EC%A1%B0%EA%B1%B4%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%AC%B8%EC%A0%9C  <br />
-
+python optimize - https://stackoverflow.com/questions/25269982/solving-a-bounded-non-linear-minimization-with-scipy-in-python <br />
 
 <h2> 최적화 질문 모음 </h2>
 https://stackoverflow.com/questions/19244527/scipy-optimize-how-to-restrict-argument-values   <br />
