@@ -52,7 +52,7 @@ python optimize - https://hmkim312.github.io/posts/%EC%B5%9C%EC%A0%81%ED%99%94(O
 python optimize - https://stackoverflow.com/questions/25269982/solving-a-bounded-non-linear-minimization-with-scipy-in-python <br />
 optimization with constraint - https://frhyme.github.io/python-lib/optimization_with_constraint/  <br />
 
-
+책 모음 - https://math.stackexchange.com/questions/4567958/reference-book-for-these-types-of-problems
 
 <h2> 최적화 질문 모음 </h2>
 https://stackoverflow.com/questions/19244527/scipy-optimize-how-to-restrict-argument-values   <br />
