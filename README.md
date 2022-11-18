@@ -12,6 +12,7 @@ https://coding-chobo.tistory.com/58 <br />
 https://www.geeksforgeeks.org/clockwise-spiral-rule-in-c-c-with-examples/ <br />
 https://kmc7468.github.io/cppground/2018/11/04/1.html <br />
 https://panty.run/c-decl-interpret/ <br />
+스마트 포인터 - https://www.youtube.com/watch?v=SQYPN8FVCAI  <br />
 
 
 <h2> P/NP</h2>
