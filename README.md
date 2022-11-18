@@ -58,7 +58,7 @@ optimization with constraint - https://frhyme.github.io/python-lib/optimization_
 https://stackoverflow.com/questions/19244527/scipy-optimize-how-to-restrict-argument-values   <br />
 https://stackoverflow.com/questions/56933221/optimize-minimize-inequality-constraints-incompatible-with-slsqp  <br />
 https://stackoverflow.com/questions/42303470/scipy-optimize-inequality-constraint-which-side-of-the-inequality-is-considere  <br />
-
+https://stackoverflow.com/questions/43702352/maximize-optimization-using-scipy
 
 <h2> MOSEK 질문 </h2>
 http://ask.cvxr.com/search?q=mosek%20fraction  <br />
