@@ -52,14 +52,14 @@ python optimize - https://hmkim312.github.io/posts/%EC%B5%9C%EC%A0%81%ED%99%94(O
 python optimize - https://stackoverflow.com/questions/25269982/solving-a-bounded-non-linear-minimization-with-scipy-in-python <br />
 optimization with constraint - https://frhyme.github.io/python-lib/optimization_with_constraint/  <br />
 
-책 모음 - https://math.stackexchange.com/questions/4567958/reference-book-for-these-types-of-problems
+책 모음 - https://math.stackexchange.com/questions/4567958/reference-book-for-these-types-of-problems <br />
 
 <h2> 최적화 질문 모음 </h2>
 https://stackoverflow.com/questions/19244527/scipy-optimize-how-to-restrict-argument-values   <br />
 https://stackoverflow.com/questions/56933221/optimize-minimize-inequality-constraints-incompatible-with-slsqp  <br />
 https://stackoverflow.com/questions/42303470/scipy-optimize-inequality-constraint-which-side-of-the-inequality-is-considere  <br />
-https://stackoverflow.com/questions/43702352/maximize-optimization-using-scipy
-linear fractional - https://math.stackexchange.com/questions/1428641/charnes-cooper-method-in-linear-fractional-programming
+https://stackoverflow.com/questions/43702352/maximize-optimization-using-scipy <br />
+linear fractional - https://math.stackexchange.com/questions/1428641/charnes-cooper-method-in-linear-fractional-programming <br />
 
 
 <h2> MOSEK 질문 </h2>
