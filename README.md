@@ -72,4 +72,4 @@ http://ask.cvxr.com/search?q=mosek%20fraction  <br />
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](./2121.jpg)
+![](2121.jpg)  |  ![](./2121.jpg)
