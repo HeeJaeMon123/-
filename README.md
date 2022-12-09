@@ -70,6 +70,3 @@ http://ask.cvxr.com/search?q=mosek%20fraction  <br />
 <h2> 안테나 </h2>
 기초 - https://www.youtube.com/watch?v=fASaxvahoxA&list=RDCMUC8oISLPgi09sho7xkjR5CgA&start_radio=1  <br />
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](2121.jpg)  |  ![](./2121.jpg)
