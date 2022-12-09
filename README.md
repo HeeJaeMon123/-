@@ -60,6 +60,7 @@ https://stackoverflow.com/questions/56933221/optimize-minimize-inequality-constr
 https://stackoverflow.com/questions/42303470/scipy-optimize-inequality-constraint-which-side-of-the-inequality-is-considere  <br />
 https://stackoverflow.com/questions/43702352/maximize-optimization-using-scipy <br />
 linear fractional - https://math.stackexchange.com/questions/1428641/charnes-cooper-method-in-linear-fractional-programming <br />
+복소수 최적화 - https://stackoverflow.com/questions/51211055/can-scipy-optimize-minimize-functions-of-complex-variables-at-all-and-how <br />
 
 
 <h2> MOSEK 질문 </h2>
